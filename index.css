@@ -1,0 +1,13 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-size: 3vw;
+}
+body{
+    background-color:#f1f1f1;
+}
+#game{
+    display: block;
+    text-align: center;
+    width: 100%;
+}
